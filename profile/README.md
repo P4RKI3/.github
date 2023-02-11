@@ -14,7 +14,7 @@ Visit the Repo here (https://github.com/P4RKI3/Parkie)
 
 GitHub repository for continuous deployment setup where changes are automatically deployed to Static Azure web app. 
 
-
+**Note:** Currently www.parkie.app is in development hence `The site is unavailable to access.`
 
 
 
