@@ -6,6 +6,7 @@
 - Team comprises of three members ([No3Mc](https://github.com/No3Mc), [Umar](https://github.com/itsumarsoomro), and [Nav](https://github.com/navnoor1))
 
 For Backlog (https://github.com/orgs/P4RKI3/projects/1)
+For No3s Backlog: (https://github.com/orgs/P4RKI3/projects/1/views/4)
 
 Detailed overview here (https://github.com/P4RKI3/.github/wiki)
 
